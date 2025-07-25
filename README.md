@@ -35,7 +35,7 @@
 📈 **Estadísticas de GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesuslunaromero&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luro230902@gmail.com&show_icons=true&theme=tokyonight" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jesuslunaromero&theme=tokyonight&hide_border=true" />
   <br />
