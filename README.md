@@ -5,7 +5,7 @@
 
 🌟 **Sobre mí**
 
-- 🎓 Estudiante de Ingeniería Informática
+- Desarrollador FullStack
 - 💼 Actualmente desarrollando con Spring Boot, Android (Room + MVVM) y .NET
 - 🧠 Apasionado por la Inteligencia Artificial y el Análisis de Datos
 - 🚀 En proceso de dominar Machine Learning, Python, pandas, scikit-learn y más
@@ -44,11 +44,11 @@
 
 📂 **Repositorios destacados**
 
-- 🔒 [Login con Spring Boot, JWT y Cookies](https://github.com/jesuslunaromero/nombre-del-repo)
-- 🏦 [Gestión bancaria con cifrado de IBANs](https://github.com/jesuslunaromero/nombre-del-repo)
-- 💊 [App Android de control de medicación (Room + MVVM)](https://github.com/jesuslunaromero/nombre-del-repo)
-- 📊 [Análisis de datos sobre diabetes con Machine Learning](https://github.com/jesuslunaromero/nombre-del-repo)
-- 🧠 [Clasificador de imágenes con CNNs y TensorFlow](https://github.com/jesuslunaromero/nombre-del-repo)
+- 🏦 [Gestión bancaria con cifrado de IBANs, Sring Boot, JWT y Cookies](https://github.com/JesusLuna2309/SpringBootCRUDLogin)
+- 💊 [App Android de control de medicación (Room + MVVM) (En progreso)]()
+- 🏪 [Gestor de ventas para joyerias en .NET Maui](https://github.com/JesusLuna2309/GestorVentasMAUIFirebase)
+- 📊 [Análisis de datos sobre diabetes con Machine Learning (En progreso)]()
+- 🧠 [Clasificador de imágenes con CNNs y TensorFlow (En progreso)]()
 
 > 📝 *Reemplaza los enlaces por tus repos reales*
 
@@ -56,7 +56,7 @@
 
 📫 **Conecta conmigo**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/jesuslunaromero)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/jesus-luna-romero)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat-square)](mailto:jesuslunaromero230902@gmail.com)
 
 ---
