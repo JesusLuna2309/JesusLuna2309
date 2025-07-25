@@ -49,9 +49,6 @@
 - 🏪 [Gestor de ventas para joyerias en .NET Maui](https://github.com/JesusLuna2309/GestorVentasMAUIFirebase)
 - 📊 [Análisis de datos sobre diabetes con Machine Learning (En progreso)]()
 - 🧠 [Clasificador de imágenes con CNNs y TensorFlow (En progreso)]()
-
-> 📝 *Reemplaza los enlaces por tus repos reales*
-
 ---
 
 📫 **Conecta conmigo**
