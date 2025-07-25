@@ -32,6 +32,7 @@
 
 ---
 
+<!--
 📈 **Estadísticas de GitHub**
 
 <p align="center">
@@ -41,6 +42,7 @@
 </p>
 
 ---
+-->
 
 📂 **Repositorios destacados**
 
