@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Jesús Luna Romero</h1>
-<h3 align="center">💻 Desarrollador Fullstack | 🤖 Enfocado en IA y Análisis de Datos | 🎮 Amante de los videojuegos</h3>
+<h3 align="center">💻 Desarrollador Back-end | 🤖 Enfocado en IA y Análisis de Datos | 🎮 Amante de los videojuegos</h3>
 
 ---
 
