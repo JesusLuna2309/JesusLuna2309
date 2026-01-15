@@ -5,7 +5,7 @@
 
 🌟 **Sobre mí**
 
-- Desarrollador FullStack
+- Desarrollador Back-End
 - 💼 Actualmente desarrollando con Spring Boot, Android (Room + MVVM) y .NET
 - 🧠 Apasionado por la Inteligencia Artificial y el Análisis de Datos
 - 🚀 En proceso de dominar Machine Learning, Python, pandas, scikit-learn y más
