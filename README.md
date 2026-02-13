@@ -17,7 +17,7 @@
 📌 **Tecnologías y herramientas que uso**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,androidstudio,kotlin,cs,dotnet,python,py,pandas,numpy,scikit-learn,jupyter,html,css,js,ts,sqlite,mysql,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,androidstudio,kotlin,cs,dotnet,python,pandas,numpy,scikit-learn,jupyter,html,css,js,ts,sqlite,mysql,git,github,vscode,idea" />
 </p>
 
 ---
